@@ -2,4 +2,8 @@ Arch Linux Arm is a great opeating system, but it lacks community support compar
 You know Pi-Apps is a great program created by Botspot (https://github.com/Botspot/pi-apps), but it only works on Raspberry Pi Os/Ubuntu/Debian systems. To fix that, I wrote this simple program. 
 Alarmapps will only work on 64 bit arch linux arm, and I only tested it on a raspberry pi. So use it on your own risk!
 
-This is my first serious project, so there might be bugs.
+Just type this command to install:
+```
+wget -qO- https://github.com/JLCPi/alarmapps/raw/refs/heads/main/installalarmapps.sh | bash
+```
+This is my first serious project, expect bugs and errors. 
