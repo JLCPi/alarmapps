@@ -4,4 +4,5 @@ cd
 mkdir alarmapps
 cd alarmapps
 wget https://github.com/JLCPi/alarmapps/raw/refs/heads/main/test/alarmapps.sh
+chmod +x alarmapps.sh
 echo alarmapps is now installed, some apps might not work, expect bugs and errors.
