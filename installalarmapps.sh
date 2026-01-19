@@ -1,5 +1,7 @@
 echo Now will install the required packages, please wait...
-sudo pacman -Syu wget unzip yad --noconfirm
+echo Starting system update..
+sudo pacman -Syu --noconfirm
+sudo pacman -S wget yad zip unzip --noconfirm
 cd
 mkdir alarmapps
 cd alarmapps
