@@ -1,3 +1,5 @@
+cd
+cd alarmapps
 wget https://github.com/JLCPi/alarmapps/raw/refs/heads/main/appscripts/appscripts.zip
 unzip appscripts.zip
 yad --icons \
